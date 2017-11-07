@@ -1,1 +1,7 @@
 c:\users\a-pc\documents\visual studio 2015\Projects\Statements\Statements\bin\Debug\Statements.exe.config
+D:\JustGitt_Repos\CsharpStatements\Statements\Statements\bin\Debug\Statements.exe.config
+D:\JustGitt_Repos\CsharpStatements\Statements\Statements\bin\Debug\Statements.exe
+D:\JustGitt_Repos\CsharpStatements\Statements\Statements\bin\Debug\Statements.pdb
+D:\JustGitt_Repos\CsharpStatements\Statements\Statements\obj\Debug\Statements.csprojResolveAssemblyReference.cache
+D:\JustGitt_Repos\CsharpStatements\Statements\Statements\obj\Debug\Statements.exe
+D:\JustGitt_Repos\CsharpStatements\Statements\Statements\obj\Debug\Statements.pdb
